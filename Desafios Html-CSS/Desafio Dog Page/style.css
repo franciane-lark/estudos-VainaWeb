@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1{
+    position: absolute;
+    width: 69px;
+    height: 26px;
+    margin-left: 17px;
+    margin-top: 55px;
+    font-family: 'Roboto';
+  }
+  nav ul{
+    position: absolute;
+    width: 54px;
+    height: 43px;
+    margin-left: 102px;
+    margin-top: 116px;
+    font-family: 'Roboto';
+  }
+  .menu{
+    position: absolute;
+    width: 68px;
+    height: 28px;
+    margin-left: 17px;
+    margin-top: 321px;
+    font-family: 'Roboto';
+  }
+  .contato{
+    position: absolute;
+    width: 179px;
+    height: 43px;
+    margin-left: 17px;
+    margin-top: 429px;
+    font-family: 'Roboto';
+  }
+  .botao{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 367px;
+    font-family: 'Roboto';
+    background: #E5E5E5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 24px;
+    border: none;
+  }
+  .adote{
+    position: absolute;
+    width: 238px;
+    height: 35px;
+    margin-left: 23px;
+    margin-top: 510px;
+    font-family: 'Roboto';
+    font-size: 30px;
+  }
+  .doacao{
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    margin-left: 23px;
+    margin-top: 626px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    background: #CDCDD2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+  }
+  .cachorrinho{
+    position: absolute;
+    width: 249px;
+    height: 42px;
+    margin-left: 201px;
+    margin-top: 626px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    background: #CDCDD2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: none; 
+  }
+  .sobre{
+    position: absolute;
+    width: 79px;
+    height: 35px;
+    margin-left: 24px;
+    margin-top: 700px;
+    font-family: 'Roboto';
+    font-size: 30px;
+  }
+  .texto-many{
+    position: absolute;
+    width: 1228px;
+    height: 43px;
+    margin-left: 28px;
+    margin-top: 763px;
+    font-family: 'Roboto';
+    font-size: 20px;
+  }
+  .texto-passage{
+    position: absolute;
+    width: 1257px;
+    height: 117px;
+    margin-left: 28px;
+    margin-top: 825px;
+    font-family: 'Roboto';
+    font-size: 20px;
+  }
+  .voluntario{
+    position: absolute;
+    width: 177px;
+    height: 42px;
+    margin-left: 24px;
+    margin-top: 984px;
+    background: #CDCDD2;
+    font-family: 'Roboto';
+    font-size: 20px;
+    border: none;
+  }
+  .circulo{
+    position: absolute;
+    width: 246px;
+    height: 246px;
+    margin-left: 24px;
+    margin-top: 1074px;
+    background: #C4C4C4;
+    border-radius: 200px;
+    border: none;
+  }
+  .adotando{
+    position: absolute;
+    width: 81px;
+    height: 35px;
+    margin-left: 38px;
+    margin-top: 1362px;
+    font-family: 'Roboto';
+    font-size: 30px;
+  }
+  .texto-popular{
+    position: absolute;
+    width: 586px;
+    height: 26px;
+    margin-left: 38px;
+    margin-top: 1433px;
+    font-family: 'Roboto';
+    font-size: 20px;
+  }
+  .luna{
+    position: absolute;
+    width: 354px;
+    height: 224px;
+    margin-left: 45px;
+    margin-top: 1537px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    display: inline-block;
+  }
+  .duque{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: 1537px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    display: inline-block;
+  }
+  .perola{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 455px;
+    margin-top: 1537px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    display: inline-block;
+  }
+  button{
+    width: 70px;
+    height: 25px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    background-color: #CDCDD2;
+    border: none;
+  }
+  img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .face{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 27px;
+    margin-top: 2082px;
+  }
+  .insta{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    margin-left: 47px;
+    margin-top: 2078px;
+  }
+  .blog{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 72px;
+    margin-top: 2080px;
+  }
+  .amigao{
+    position: absolute;
+    width: 63px;
+    height: 26px;
+    margin-left: 26px;
+    margin-top: 2024px;
+  }
+  .email{
+    position: absolute;
+    width: 161px;
+    height: 43px;
+    margin-left: 26px;
+    margin-top: 2121px;
+  }
+  .endereco{
+    position: absolute;
+    width: 210px;
+    height: 86px;
+    margin-left: 26px;
+    margin-top: 2167px;
+  }
+  .links{
+    position: absolute;
+    width: 54px;
+    height: 43px;
+    margin-left: 55px;
+    margin-top: 2263px;
+    font-family: 'Roboto';
+    font-size: 20px;
+  }
