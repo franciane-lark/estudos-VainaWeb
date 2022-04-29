@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Roboto';
+  }
+  header {
+    background-color: #129799;
+    width: 1366px;
+    height: 602px;
+  }
+  .primeira-nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 400;
+    font-size: 30px;
+    color: #F7F7F7;
+    padding-top: 24px;
+  }
+  .primeira-nav:hover {
+    cursor: pointer;
+  }
+  .paralelo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .batida {
+    width: 50%;
+    font-size: 64px;
+    font-weight:  400;
+    color: #F7F7F7;
+    padding-left: 98px;
+    padding-top: 150px;
+  }
+  .life {
+    padding-right: 41px;
+    padding-top: 140px;
+  }
+  .segunda-nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+    font-size: 30px;
+    color: #F7F7F7;
+  }
+  .segunda-nav:hover {
+    cursor: pointer;
+  }
+  main{
+    background-color: #FFA185;
+    width: 1366px;
+    height: 1239px;
+  }
+  .aquarela {
+    width: 1220px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #F7F7F7;
+    font-family: 'Roboto';
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .texto {
+    width: 1220px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .imagens {
+    width: 93%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .img-principais {
+    width: 550px;
+    height: 350px;
+    object-fit: cover;
+  }
+  .veja-mais {
+    width: 133px;
+    height: 35px;
+    margin-left: 618px;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  footer {
+    background-color: #129799;
+    width: 1366px;
+    height: 160px;
+  }
+  .icons {
+    padding-left: 112px;
+    padding-top: 62px;
+  }
+  .redes-sociais {
+    width: 39.71px;
+    height: 38.38px;
+    object-fit: cover;
+  }
+  .navegacao{
+    width: 118vw;
+    height: 35vh;
+    margin-top: -35px;
+  }
+  .terceira-nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+    font-size: 30px;
+    color: #F7F7F7;
+    padding-left: 751px;
+  }

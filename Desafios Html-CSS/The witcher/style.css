@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-transform: uppercase;
+  }
+  body{
+     background-image: url(https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1650602102_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_19c05119ef23fd1e46f5a80310520a01e50f5036);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    heigth: 100vh;
+    margin-left: 1px;
+    margint-top: 0px;
+  }
+  .simbol{
+    position: absolute;
+    width: 54px;
+    height: 96px;
+    margin-left: 179px;
+    margin-top: 13px;
+  }
+  h1{
+    position: absolute;
+    width: 230px;
+    height: 24px;
+    margin-left: 278px;
+    margin-top: 49px;
+    fon-family: 'Montserrat'; 
+    font-size: 10px;
+    color: white;
+  }
+  ul{
+    position: absolute;
+    width: 674px;
+    height: 24px;
+    margin-left: 500px;
+    margin-top: 49px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+  }
+  li{
+    margin-left: 24px;
+    display: inline;
+    fon-family: 'Montserrat'; 
+    font-size: 10px;
+  }
+  main{
+    background-image: url(https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=7a8c854a-a5c6-4f77-bb53-8c7f1154222c&api_key=CometServer1&access_token=1650602102_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_19c05119ef23fd1e46f5a80310520a01e50f5036);
+    background-repeat: no-repeat;
+    background-size: cover; position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 123px;
+  }
+  .hunt{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 320px;
+  }
+  .assista{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin-left: 180px;
+    margin-top: 430px;
+  }
